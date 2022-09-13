@@ -1,2 +1,2 @@
-# tabela-de-classificacao
+# Tabela-de-Classificacao
 Imersão Dev Alura
